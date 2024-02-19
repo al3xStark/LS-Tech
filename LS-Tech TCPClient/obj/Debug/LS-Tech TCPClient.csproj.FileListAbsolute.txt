@@ -1,0 +1,11 @@
+D:\Проекты\LS Tech\LS-Tech TCPClient\bin\Debug\LS-Tech TCPClient.exe.config
+D:\Проекты\LS Tech\LS-Tech TCPClient\bin\Debug\LS-Tech TCPClient.exe
+D:\Проекты\LS Tech\LS-Tech TCPClient\bin\Debug\LS-Tech TCPClient.pdb
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.csproj.AssemblyReference.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS_Tech_TCPClient.Properties.Resources.resources
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.csproj.GenerateResource.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.csproj.CoreCompileInputs.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.exe
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS-Tech TCPClient.pdb
+D:\Проекты\LS Tech\LS-Tech TCPClient\obj\Debug\LS_Tech_TCPClient.Form.resources

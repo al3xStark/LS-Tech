@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LS_Tech_TCPClient_Mobile.MainPage">
+
+    <StackLayout>
+        <Label>IP-адрес: </Label>
+        <Entry x:Name="hostEntry" Text="{Binding Path=Host}"></Entry>
+        <Label>Порт: </Label>
+        <Entry x:Name="portEntry" Keyboard="Numeric" Text="{Binding Path=Port}"></Entry>
+        <Label>Hello message:</Label>
+        <Entry x:Name="helloMessageEntry" Text="{Binding Path=HelloMessage}"></Entry>
+        <Button x:Name="connectButton" Text="Подключить"/>
+        <Editor x:Name="logsEditor" IsEnabled="False" HeightRequest="400" TextColor="Blue" />
+    </StackLayout>
+
+</ContentPage>

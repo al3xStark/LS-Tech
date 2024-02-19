@@ -1,0 +1,15 @@
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.csproj.AssemblyReference.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.AssemblyInfoInputs.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.AssemblyInfo.cs
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.csproj.CoreCompileInputs.cache
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\bin\Debug\netstandard2.0\LS-Tech TCPClient Mobile.deps.json
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\bin\Debug\netstandard2.0\LS-Tech TCPClient Mobile.dll
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\bin\Debug\netstandard2.0\ref\LS-Tech TCPClient Mobile.dll
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\bin\Debug\netstandard2.0\LS-Tech TCPClient Mobile.pdb
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.dll
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\refint\LS-Tech TCPClient Mobile.dll
+D:\Проекты\LS Tech\LS-Tech TCPClient Mobile\LS-Tech TCPClient Mobile\obj\Debug\netstandard2.0\LS-Tech TCPClient Mobile.pdb
